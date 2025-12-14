@@ -51,6 +51,17 @@ This ensures the recommendations are both relevant and high-quality.
 **Similarity Computation**- A Streamlit based web UI.
 
 
+## 📸 Demo
+
+### Home Screen
+![Home Screen](Screenshots/HOme.png)
+
+### Movie Search
+![Movie Search](Screenshots/search.png)
+
+### Recommendations Output
+![Recommendations](Screenshots/Output.png)
+
 ## Tech Stack
 * **Language**- Python
 * **Libraries**- Pandas, Numpy, scikit-learn, streamlit
