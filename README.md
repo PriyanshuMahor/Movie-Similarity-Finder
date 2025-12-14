@@ -1,4 +1,4 @@
-# Movie-Similarity-Finder using NLP
+# 📽️ Movie-Similarity-Finder using NLP
 
 **Link👉** https://movie-similarity-finder-wr8hbbxsghtkfjzcsibkfz.streamlit.app/
 
